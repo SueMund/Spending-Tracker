@@ -2,7 +2,7 @@
 It allows you to keep track of your expenses by entering your expenses and you can then see your spending in 2 formats.
 The first way is a pie chart that will show you what percentage of your spending was in each category.
 The second way is a weekly spending bar graph. This allows you to see and compare how much you spent each week."""
-"""Add better date system maybe choose date on a calendar"""
+
 
 import csv
 from datetime import datetime
