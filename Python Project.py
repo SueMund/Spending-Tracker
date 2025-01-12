@@ -1,8 +1,8 @@
 """The point of this program is to be a money spending tracker.
-It allows you to keep track of your expenses by entering your expenses and you can then see your spending in 2 formats.
+It allows you to keep track of your expenses by entering your expenses and you can then see your spending in 3 formats.
 The first way is a pie chart that will show you what percentage of your spending was in each category.
-The second way is a weekly spending bar graph. This allows you to see and compare how much you spent each week."""
-"""Add better date system maybe choose date on a calendar"""
+The second way is a weekly spending bar graph. This allows you to see and compare how much you spent each week.
+The third one is a non graphic format, where it just gives you the basic report of all spendings."""
 
 import csv
 from datetime import datetime
